@@ -146,7 +146,7 @@ body {
 .icon-circle-red {
     width: 65px;
     height: 65px;
-    background-color: #ff4d4f; /* Vibrant Red circle */
+    background-color: #ff4d4f;
     border-radius: 50%;
     margin: 0 auto 20px;
     display: flex;
@@ -155,7 +155,7 @@ body {
 }
 
 .card-icon-img {
-    width: 32px; /* White icon image */
+    width: 32px; 
     height: auto;
 }
 
