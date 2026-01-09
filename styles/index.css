@@ -51,7 +51,7 @@ body {
 
 /* Hero Section with BG */
 .hero {
-    background-image: url('1.jpg');
+    background-image: url('../images/hero-bg.png');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -59,7 +59,7 @@ body {
 }
 
 .hero-overlay {
-    background: rgba(10, 25, 47, 0.85); /* Dark blue overlay */
+    background: rgba(10, 25, 47, 0.31);
     width: 100%;
     height: 100%;
     display: flex;
