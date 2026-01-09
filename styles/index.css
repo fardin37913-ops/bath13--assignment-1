@@ -227,3 +227,14 @@ body {
 .btn-green-nav:hover{
     color: #469165;
 }
+.main-footer {
+    background: #0a192f;
+    color: white;
+    padding: 60px 0 20px;
+    text-align: center;
+}
+
+.footer-logo img {
+    height: 40px;
+    margin-bottom: 20px;
+}
