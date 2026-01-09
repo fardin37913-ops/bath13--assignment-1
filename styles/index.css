@@ -49,7 +49,12 @@ body {
     font-weight: bold;
 }
 
-/* Hero Section with BG */
+.btn-green-nav:hover{
+    color: #e95e14;
+    background-color: #666;
+}
+
+/* Hero Section*/
 .hero {
     background-image: url('../images/hero-bg.png');
     background-size: cover;
@@ -211,4 +216,14 @@ body {
 .footer-logo img {
     height: 40px;
     margin-bottom: 20px;
+}
+.solution-content p{
+    color: #627382;
+
+}
+.label{
+    color: #469165;
+}
+.btn-green-nav:hover{
+    color: #469165;
 }
